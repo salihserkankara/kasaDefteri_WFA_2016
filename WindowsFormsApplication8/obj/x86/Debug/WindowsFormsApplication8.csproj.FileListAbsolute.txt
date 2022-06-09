@@ -1,0 +1,34 @@
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\bin\x86\Debug\Database2.accdb
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\bin\x86\Debug\WindowsFormsApplication8.exe.config
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\bin\x86\Debug\WindowsFormsApplication8.exe
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\bin\x86\Debug\WindowsFormsApplication8.pdb
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\bin\x86\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csprojResolveAssemblyReference.cache
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.cikan.resources
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form1.resources
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.giren.resources
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Properties.Resources.resources
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.rapor.resources
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.yardim.resources
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.yazdir.resources
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csproj.GenerateResource.Cache
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\RdlCompile.cache
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\RdlCompile.compiled
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+D:\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\bin\x86\Debug\Database2.accdb
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\bin\x86\Debug\WindowsFormsApplication8.exe.config
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\bin\x86\Debug\WindowsFormsApplication8.exe
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\bin\x86\Debug\WindowsFormsApplication8.pdb
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csprojAssemblyReference.cache
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.cikan.resources
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Form1.resources
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.giren.resources
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.Properties.Resources.resources
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.rapor.resources
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.yardim.resources
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.yazdir.resources
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csproj.GenerateResource.cache
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.csproj.CopyComplete
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.exe
+D:\Bilgisayar Programcılığı\onur\WindowsFormsApplication8\WindowsFormsApplication8\obj\x86\Debug\WindowsFormsApplication8.pdb
